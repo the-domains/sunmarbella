@@ -1,7 +1,7 @@
 name: sunmarbella
 favicon: null
-layout_spectrum: 0.68167
-typography_spectrum: 0.7527
+layout_spectrum: 1
+typography_spectrum: 0.25421
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffb81d'
-    - '#137abf'
-    - '#ffffff'
-    - '#0000ff'
-    - '#000000'
+    - '#006f9d'
+    - '#7c91ca'
+    - '#f4fcfe'
+    - '#5b1a00'
+    - '#fea200'
   brandStrength: 0.125
   lightness: 0.27599077578634024
   saturation: 0.375
