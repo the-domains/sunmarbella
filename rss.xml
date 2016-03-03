@@ -4,7 +4,7 @@
         <description><![CDATA[sunmarbella]]></description>
         <link>https://thegrid.ai/sunmarbella/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 08:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 08:54:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sunmarbella/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Property]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/sunmarbella/titlul-script/index.html</link>
             <guid isPermaLink="false">4458f086-0df9-4019-9a93-cddac535da89</guid>
             <pubDate>Thu, 03 Mar 2016 08:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>test de test</p>]]></description>
-            <link>https://thegrid.ai/sunmarbella/5a205b28-ae4c-4758-923b-a6b7b5774dd2/index.html</link>
-            <guid isPermaLink="false">5a205b28-ae4c-4758-923b-a6b7b5774dd2</guid>
-            <pubDate>Sun, 13 Dec 2015 16:47:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
